@@ -1,0 +1,25 @@
+.item {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    line-height: 1.5;
+    margin-bottom: 15px;
+
+  }
+
+.value{
+  color:aliceblue;
+  margin-right: 10px;
+  margin-left: 5px;
+}  
+  
+  .completed {
+    text-decoration: line-through;
+    color: lightgray;
+  }
+
+ .button{
+  border-radius: 5%;
+border: 1px solid white;
+background-color: #afe6e6;
+ } 

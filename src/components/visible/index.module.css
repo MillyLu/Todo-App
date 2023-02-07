@@ -1,0 +1,35 @@
+.todolist {
+  margin-top: 1rem;
+  text-align: center;
+  list-style: none;
+}
+
+.filterButton {
+  height: 30px;
+  font-size: 14px;
+padding: 3px 15px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+border-radius: 5%;
+border: 1px solid white;
+background-color: #afe6e6;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.filterButton:hover{
+  scale: 1.1;
+}
+
+.filterButton:active{
+  scale: 0.9;
+}
+
+.buttons{
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  justify-content: center;
+align-items: center;
+margin-bottom: 50px;
+}
